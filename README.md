@@ -1,4 +1,4 @@
-# awesome-wsl
+# Windows Subsystem for Linux Notes
 
 ## Install
 

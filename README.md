@@ -43,6 +43,7 @@ Codename:       focal
 ### Python
 
 * [wsl-setup-vs-code-for-python-developmen](https://manojchoudhari.wordpress.com/2020/09/24/wsl-setup-vs-code-for-python-development/)
+* [auto run python venv in vscode terminal](https://code.visualstudio.com/docs/python/environments)
 
 ### Node.js
 
